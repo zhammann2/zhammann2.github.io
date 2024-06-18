@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Machinery Match
+description: Raikes School Design Studio 2023-2024
+img: assets/img/fcsa.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: school
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

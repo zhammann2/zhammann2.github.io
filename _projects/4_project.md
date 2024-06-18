@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: IT Ticket Prioritization
+description: Is there a better process than FIFO? How we found out!
+img: assets/img/ticket.png
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

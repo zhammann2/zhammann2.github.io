@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of Zach's projects. Split into Work, School, and Personal Categories. For best viewing experience, switch to light mode.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [work, school, personal]
 horizontal: false
 ---
 

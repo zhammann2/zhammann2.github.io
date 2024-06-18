@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Raikes Resume.pdf
-description: The following information reflects Zach's professional experiences. Download available for pdf resume.
+description: The following information reflects Zach's professional experiences. Download available for more detailed pdf resume.
 toc:
   sidebar: left
 ---

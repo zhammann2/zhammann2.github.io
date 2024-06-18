@@ -69,7 +69,7 @@
       "location": "Lincoln NE, USA",
       "url": "https://www.unl.edu",
       "area": "Computer Science, Data Science, Mathematics",
-      "studyType": "Bachelor's",
+      "studyType": "Bachelor's of Science (x2)",
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
       "score": "",
@@ -146,18 +146,6 @@
         "Himalayas",
         "Grand Canyon"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ]
 }

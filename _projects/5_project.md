@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Twitter Sentiment Analysis
+description: How we correlated public events with Twitter Sentiment
+img: assets/img/sentiment.jpg
 importance: 3
-category: fun
+category: school
 ---
 
 Every project has a beautiful feature showcase page.
