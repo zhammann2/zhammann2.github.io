@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A personal website
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_z.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello! My name is Zach Hammann, and I am currently a Senior at the University of Nebraska-Lincoln. I am also a student in the Jeffrey S. Raikes School of Computer Science and Management. I'm studying Computer Science, Data Science, and Mathematics, and I am getting a minor in Business. I'm very passionate about working with data, and find myself drawn to projects that require outside-the-box thinking, critical problem solving, and healthy communication and teamwork.  
+  
+I've completed three internships throughout my college experience, and have enjoyed my time working on data focused projects and problems. 
+  
+Please contact me with any questions. My contact information is located under the **cv** section of the website, but you can also find my email at the bottom of this page. Thank you for visiting!  
