@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2024-05-26",
       "endDate": "2024-08-16",
-      "summary": "Completed various projects regarding machine learning, including free text analysis with large language models",
+      "summary": "Completed various projects regarding machine learning, including free text analysis with large language models.",
       "highlights": ["Machine Learning", "Python", "Flask", "LangChain"]
     },
     {
@@ -55,7 +55,7 @@
     {
       "organization": "Scouting BSA",
       "location": "Minneapolis, MN",
-      "position": "Volunteer for Grey Wolf NYLT",
+      "position": "Grey Wolf National Youth Leadership Training Staff",
       "url": "",
       "startDate": "2016-01-01",
       "endDate": "2021-07-01",
@@ -68,12 +68,23 @@
       "institution": "University of Nebraska-Lincoln",
       "location": "Lincoln NE, USA",
       "url": "https://www.unl.edu",
-      "area": "Computer Science, Data Science, Mathematics",
-      "studyType": "Bachelor's of Science (x2)",
+      "area": "Computer Science",
+      "studyType": "Bachelor's of Science",
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
       "score": "",
-      "courses": ["12x Dean's List", "GPA: 3.978", "Jeffrey S. Raikes School"]
+      "courses": ["6x Dean's List - College of Engineering", "GPA: 3.978", "Minor: Business", "Jeffrey S. Raikes School"]
+    },
+    {
+      "institution": "University of Nebraska-Lincoln",
+      "location": "Lincoln NE, USA",
+      "url": "https://www.unl.edu",
+      "area": "Mathematics, Data Science",
+      "studyType": "Bachelor's of Science",
+      "startDate": "2021-08-01",
+      "endDate": "2025-05-01",
+      "score": "",
+      "courses": ["6x Dean's List - College of Arts and Sciences", "GPA: 3.978", "Jeffrey S. Raikes School"]
     }
   ],
   "awards": [
@@ -82,7 +93,7 @@
       "date": "2021-01-01",
       "awarder": "Scouting BSA",
       "url": "https://www.scouting.org",
-      "summary": "Achieved the highest rank in Scouting, a prestigious award"
+      "summary": "Achieved the highest rank in Scouting, a prestigious award."
     },
     {
       "title": "National Merit Commended Scholar",
@@ -122,6 +133,17 @@
         "SQL",
         "Typescript"
       ]
+    },
+    {
+      "name": "Mathematics",
+      "level": "Adept",
+      "icon": "",
+      "keywords": [
+        "Calculus",
+        "Linear Algebra",
+        "Optimization",
+        "Abstract Algebra"
+      ]
     }
   ],
   "languages": [
@@ -132,7 +154,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Limited Proficiency",
+      "fluency": "Basic Proficiency",
       "icon": ""
     }
   ],
@@ -145,6 +167,26 @@
         "Adventure",
         "Himalayas",
         "Grand Canyon"
+      ]
+    },
+    {
+      "name": "Reading",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Cormac McCarthy",
+        "Clive Cussler",
+        "Sci-Fi",
+        "Historical Fiction"
+      ]
+    },
+    {
+      "name": "Video Games",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Elden Ring",
+        "Skyrim",
+        "Fallout",
+        "Counter Strike"
       ]
     }
   ]
